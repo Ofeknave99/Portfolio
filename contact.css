@@ -1,0 +1,31 @@
+  body {
+      font-family: Arial, sans-serif;
+       background-image: url(./img/conact.jpg);
+       background-size: cover;
+       background-repeat: no-repeat;
+       background-position: center;
+      margin: 0;
+      padding: 20px;
+    }
+    
+
+    h1 {
+      color: #333;
+      font-size: 36px;
+      margin-top: 0;
+      align-items: center;
+      text-align: center;
+    }
+
+    p {
+      color: #0b0a0a;
+      font-size: 18px;
+      margin-bottom: 10px;
+      align-items: center;
+      text-align: center;
+    }
+
+    #name, #last-name, #email {
+      font-weight: bold;
+    }
+   
